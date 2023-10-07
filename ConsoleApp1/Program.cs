@@ -16,7 +16,7 @@ namespace ConsoleApp1
 
             int b = Convert.ToInt32(Console.ReadLine());
 
-            Console.Write("Умноженаня на 2: ");
+            Console.Write("Умножениня на 2: ");
             Console.WriteLine(b * 2);
             
             Console.ReadLine();
